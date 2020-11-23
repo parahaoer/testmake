@@ -1,5 +1,5 @@
 # testmake
-
+该 Demo是vscode 配置 make 编译 调试/运行 C++程序的 测试
 1、创建 tasks.json
 在vscode的主菜单栏单击 Terminal --> Configure Tasks --> Create tasks.json file from template --> Others ,生成的tasks.json 如下所示：
 {
